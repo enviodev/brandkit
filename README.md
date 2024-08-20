@@ -16,11 +16,9 @@ Icon: Use for social media avatars and favicons.
 ### Color Palette
 Primary Colors
 Envio Orange: #FF8267
-Envio Blue: #3EA5FF
-Envio Purple: #FF6DF0 
 Envio Black: #0F0F0F
 
-Please use the primary colors for most design elements.
+Please use primary colours for most design elements.
 
 Contact
 For any questions or additional resources, please contact the Envio Team on Discord or hello @ envio.dev
