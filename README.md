@@ -36,7 +36,7 @@ All assets are in the repository root. SVG is preferred wherever possible.
 
 The primary logo is the default. Use it on light, dark, and neutral backgrounds.
 
-![Envio Primary Logo](./envio-logo-primary.png)
+![Envio Primary Logo](./logos/envio-logo-primary.png)
 
 **Clear space:** Maintain clear space around the logo equal to the height of the "E" in Envio on all sides. Don't crowd it.
 
@@ -44,13 +44,13 @@ The primary logo is the default. Use it on light, dark, and neutral backgrounds.
 
 Use the white logo on dark or coloured backgrounds where the primary logo wouldn't have sufficient contrast.
 
-![Envio White Logo](./envio-logo-white.png)
+![Envio White Logo](./logos/envio-logo-white.png)
 
 ### Icon (1:1)
 
 Use the square icon variant for social media avatars, favicons, and app icons where a rectangular lockup won't fit.
 
-![Envio Icon](./envio-logo-1x1-black.png)
+![Envio Icon](./logos/envio-logo-1x1-black.png)
 
 ---
 
