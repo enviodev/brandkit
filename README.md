@@ -22,9 +22,9 @@ All assets are in the repository root. SVG is preferred wherever possible.
 
 | File | Format | Use case |
 |---|---|---|
-| `envio-logo-primary.svg` / `.png` | SVG, PNG | Default logo — use in most situations |
+| `envio-logo-primary.svg` / `.png` | SVG, PNG | Default logo, use in most situations |
 | `envio-logo-white.svg` / `.png` | SVG, PNG | For dark or coloured backgrounds |
-| `envio-logo-1x1-clear.svg` / `.png` | SVG, PNG | Square icon — social avatars, favicons, app icons |
+| `envio-logo-1x1-clear.svg` / `.png` | SVG, PNG | Square icon for social avatars, favicons, app icons |
 | `envio-logo-1x1-black.png` | PNG | Square icon on light backgrounds |
 | `envio-logo-high rez.png` | PNG | High-resolution for print or large-format use |
 
@@ -60,7 +60,7 @@ Use the square icon variant for social media avatars, favicons, and app icons wh
 
 | Name | Hex | Usage |
 |---|---|---|
-| Envio Orange | `#FF8267` | Primary brand colour — CTAs, highlights, accents |
+| Envio Orange | `#FF8267` | Primary brand colour for CTAs, highlights, accents |
 | Envio Black | `#0F0F0F` | Primary text, backgrounds, dark UI |
 
 Use primary colours for the majority of brand design elements. Envio Orange should be used purposefully, as an accent or highlight, not a fill-all.
