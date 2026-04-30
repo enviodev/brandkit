@@ -89,4 +89,3 @@ Use primary colours for the majority of brand design elements. Envio Orange shou
 Need something not covered here, a different file format, a specific size, or brand guidance for a particular use case?
 
 Reach us on [Discord](https://discord.gg/envio)
-test
