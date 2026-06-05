@@ -21,7 +21,7 @@ This brand kit defines how the Envio brand looks, speaks, and scales across ever
 
 The Envio mark across its four primary contexts.
 
-![Envio Logo Variants: Primary, On Mid Gray, On Gradient, On Light](https://github.com/Jordy-Baby/brandkit-preview/raw/main/logos/envio-logo-showcase.png)
+![Envio Logo Variants: Primary, On Mid Gray, On Gradient, On Light](./showcase/envio-logo-showcase.png)
 
 ### Variants
 
@@ -73,7 +73,7 @@ All logo files live in the [logos](./logos) folder. Prefer SVG wherever possible
 
 ### Brand Gradients
 
-![Envio Brand Gradients: Signature Gradient and Full Spectrum](https://github.com/Jordy-Baby/brandkit-preview/raw/main/logos/envio-gradients-showcase.png)
+![Envio Brand Gradients: Signature Gradient and Full Spectrum](./showcase/envio-gradients-showcase.png)
 
 | Gradient | Stops |
 | --- | --- |
@@ -99,7 +99,7 @@ Use the primary palette for the majority of brand design. Primary Orange should 
 
 ## 03. Typography
 
-![Envio Typography: Geist for display and UI, Geist Mono for code and data](https://github.com/Jordy-Baby/brandkit-preview/raw/main/logos/envio-typography-showcase.png)
+![Envio Typography: Geist for display and UI, Geist Mono for code and data](./showcase/envio-typography-showcase.png)
 
 ### Typefaces
 
@@ -109,13 +109,13 @@ Use the primary palette for the majority of brand design. Primary Orange should 
 | **Geist Mono** | Code and data | The default voice of the terminal. Used for hex values, code snippets, metadata labels, and anywhere data or technical precision is communicated. |
 | **DM Mono** | Code examples | Used specifically for 14px code examples. |
 
-![Envio Type Scale: Display, Heading 1, Heading 2, Body, Caption, Mono/Code](https://github.com/Jordy-Baby/brandkit-preview/raw/main/logos/envio-type-scale-showcase.png)
+![Envio Type Scale: Display, Heading 1, Heading 2, Body, Caption, Mono/Code](./showcase/envio-type-scale-showcase.png)
 
 ---
 
 ## 04. Product Identity
 
-![Envio Products: HyperIndex, HyperSync, HyperRPC](https://github.com/Jordy-Baby/brandkit-preview/raw/main/logos/envio-products-showcase.png)
+![Envio Products: HyperIndex, HyperSync, HyperRPC](./showcase/envio-products-showcase.png)
 
 The colour associations below are suggestions to help differentiate each product visually. Envio does not currently use distinct colours per product in official materials.
 
