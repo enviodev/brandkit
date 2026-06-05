@@ -31,4 +31,4 @@ See [envio.dev/brand-assets/LICENSE.txt](https://envio.dev/brand-assets/LICENSE.
 
 ## Questions, partnerships, co-marketing
 
-Reach out to us on **[Discord](https://discord.gg/envio)** or **[Telegram](https://t.me/+5mI61oZibEM5OGQ8)** for support, partnerships, or co-marketing. Pick whichever works for you.
+Reach out to us on **[Discord](https://discord.gg/envio)** or **[Telegram](https://t.me/+5mI61oZibEM5OGQ8)** for support, partnerships, or co-marketing.
