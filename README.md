@@ -12,12 +12,32 @@ That page is the canonical source for:
 
 ## Quick downloads
 
-- Standard wordmark: [SVG](https://envio.dev/brand-assets/envio-logo-primary.svg) · [PNG](https://envio.dev/brand-assets/envio-logo-primary.png)
-- White wordmark: [SVG](https://envio.dev/brand-assets/envio-logo-white.svg) · [PNG](https://envio.dev/brand-assets/envio-logo-white.png)
-- Square mark, colour: [SVG](https://envio.dev/brand-assets/envio-logo-square.svg) · [PNG](https://envio.dev/brand-assets/envio-logo-square.png)
-- Square mark, white: [SVG](https://envio.dev/brand-assets/envio-logo-square-white.svg) · [PNG](https://envio.dev/brand-assets/envio-logo-square-white.png)
-- E symbol: [SVG](https://envio.dev/brand-assets/envio-symbol.svg) · [PNG](https://envio.dev/brand-assets/envio-symbol.png)
-- Full kit (zip): [envio-brand-kit.zip](https://envio.dev/brand-assets/envio-brand-kit.zip)
+<table>
+  <tr>
+    <td align="center" width="200" style="background:#1E1F23"><img src="https://raw.githubusercontent.com/enviodev/brandkit/main/logos/envio-logo-primary.svg" width="160" alt="Standard wordmark"></td>
+    <td valign="middle"><strong>Standard wordmark</strong><br/><sub>Primary. Use on dark backgrounds.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-logo-primary.svg">SVG</a> · <a href="https://envio.dev/brand-assets/envio-logo-primary.png">PNG</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="200" style="background:#FF8267"><img src="https://raw.githubusercontent.com/enviodev/brandkit/main/logos/envio-logo-white.svg" width="160" alt="White wordmark"></td>
+    <td valign="middle"><strong>White wordmark</strong><br/><sub>Reversed. Use on gradient or photo backgrounds.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-logo-white.svg">SVG</a> · <a href="https://envio.dev/brand-assets/envio-logo-white.png">PNG</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><img src="https://raw.githubusercontent.com/enviodev/brandkit/main/logos/envio-logo-square.svg" width="120" alt="Square mark, colour"></td>
+    <td valign="middle"><strong>Square mark, colour</strong><br/><sub>Brand-coloured 1:1 wordmark on transparent.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-logo-square.svg">SVG</a> · <a href="https://envio.dev/brand-assets/envio-logo-square.png">PNG</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="200" style="background:#FF8267"><img src="https://raw.githubusercontent.com/enviodev/brandkit/main/logos/envio-logo-square-white.svg" width="120" alt="Square mark, white"></td>
+    <td valign="middle"><strong>Square mark, white</strong><br/><sub>Reversed 1:1 wordmark on transparent.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-logo-square-white.svg">SVG</a> · <a href="https://envio.dev/brand-assets/envio-logo-square-white.png">PNG</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><img src="https://raw.githubusercontent.com/enviodev/brandkit/main/logos/envio-symbol.svg" width="120" alt="E symbol"></td>
+    <td valign="middle"><strong>E symbol</strong><br/><sub>Standalone E mark on black. For favicons and tight spaces.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-symbol.svg">SVG</a> · <a href="https://envio.dev/brand-assets/envio-symbol.png">PNG</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="200">📦</td>
+    <td valign="middle"><strong>Full kit</strong><br/><sub>Everything above in a single zip.</sub><br/><br/><a href="https://envio.dev/brand-assets/envio-brand-kit.zip">envio-brand-kit.zip</a></td>
+  </tr>
+</table>
 
 ## Usage license
 
