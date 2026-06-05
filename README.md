@@ -19,12 +19,6 @@ That page is the canonical source for:
 - E symbol: [SVG](https://envio.dev/brand-assets/envio-symbol.svg) · [PNG](https://envio.dev/brand-assets/envio-symbol.png)
 - Full kit (zip): [envio-brand-kit.zip](https://envio.dev/brand-assets/envio-brand-kit.zip)
 
-## Hotlink compatibility
-
-The logo files in this repo's [`logos/`](./logos) folder remain hosted for hotlink stability. If you're embedding from `raw.githubusercontent.com/enviodev/brandkit/main/logos/...`, those URLs continue to work.
-
-For any new integration, prefer the `envio.dev/brand-assets/...` URLs. They're the most up-to-date set and include variants this repo doesn't (white square mark, standalone E symbol).
-
 ## Usage license
 
 See [envio.dev/brand-assets/LICENSE.txt](https://envio.dev/brand-assets/LICENSE.txt) for the full usage terms.
