@@ -5,7 +5,7 @@ Find the Envio brand kit at **[envio.dev/brand](https://envio.dev/brand)**.
 That page is the canonical source for:
 
 - Logo files (SVG and PNG, including white variants, square marks, and the E symbol)
-- Brand colours (hex codes) and the brand gradient
+- Brand colours (hex codes)
 - Typography
 - Voice and tone
 - Usage license and partnership contacts
